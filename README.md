@@ -1,4 +1,4 @@
-Hi 👋, I'm Alvee Hasan
+Hi 👋, I'm Alvee
 ======================
 
 🎯 Student | Huh?🤔 | GitHub Lover
@@ -8,7 +8,7 @@ Hi 👋, I'm Alvee Hasan
 🔭 Currently working on: **Ntg :)**
 
 📫 Contact Me:
-- Telegram: [@alvee15102](https://t.me/alvee15102)
+- Telegram: [@alvee15102](https://t.me/Alvee15102)
 - GitHub: [Alvee15102](https://github.com/Alvee15102)
 ---
 
